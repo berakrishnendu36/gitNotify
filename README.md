@@ -2,7 +2,7 @@
 
 ### Get notified about the activities of your followings. :)
 
-[Download the apk from here!](https://www.google.com)
+[Download the apk from here!](https://github.com/berakrishnendu36/gitNotify/releases/download/v1.0/app-release.apk)
 
 <img src="./images/ss4.jpg" alt="img4" width="250"/>
 
